@@ -2,53 +2,39 @@
 
 ## Organization
 
-- Reports are stored **per team** in the `./<jam-version>/reports` subfolder.  
-- Traces are stored in the `./<jam-version>/traces` subfolder.  
+- Reports are stored **per team** in the `./<jam-version>/reports` subfolder.
+- Traces are stored in the `./<jam-version>/traces` subfolder.
+- Summaries are stored in the `./<jam-version>/summaries` subfolder.
 - Each report is named after the **trace involved**.
-- **Disputed traces** are preserved permanently, even after the dispute has been resolved for all teams.  
+- **Disputed traces** are preserved permanently, even after the dispute has been resolved for all teams.
 
-## Disputes
-
-* ❌ : Fails with report
-
-Empty cells indicate successful processing
+## Teams
 
 ### GP 0.7.2
-
-* jamduna (go)
-* jamixir (elixir)
-* jampy (python)
-* jamzilla (go)
-* javajam (java)
-* pyjamaz (python)
-* vinwolf (rust)
-* tsjam (ts)
-* typeberry (ts)
-
-### GP 0.7.1
 
 * boka (swift)
 * fastroll (rust)
 * gossamer (go)
+* graymatter (elixir)
+* jam4s (scala)
+* jamduna (go)
+* jamforge (scala)
+* jamixir (elixir)
+* jampy (python)
+* jamzig (zig)
+* jamzilla (go)
+* javajam (java)
+* new-jamneration (go)
+* pbnjam (ts)
+* polkajam (rust)
+* pyjamaz (python)
 * spacejam (rust)
-
-Total archived traces: 78
-
-See [summaries](0.7.1/summaries)
+* strawberry (go)
+* tessera (python)
+* tsjam (ts)
+* typeberry (ts)
+* vinwolf (rust)
 
 ### GP 0.7.0
 
-* graymatter (elixir)
-* jamzig (zig)
-* new_jamneration (go)
-* strawberry (go)
-* tessera (python)
 * turbojam (c++)
-
-Total archived traces: 80
-
-See [summaries](0.7.0/summaries)
-
-### GP 0.6.7
-
-Total archived traces: 33
